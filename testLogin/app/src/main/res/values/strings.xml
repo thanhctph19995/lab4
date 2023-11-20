@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testLogin</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_voucher">Voucher</string>
+    <string name="title_goi">Shopping Cart</string>
+    <string name="title_in4">My Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
